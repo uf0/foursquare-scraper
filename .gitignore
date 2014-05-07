@@ -26,3 +26,6 @@ node_modules
 
 #Mac hidden file
 .DS_Store
+
+#data files
+data/
